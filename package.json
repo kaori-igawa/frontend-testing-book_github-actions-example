@@ -1,0 +1,14 @@
+{
+  "name": "frontend-testing-book_github-actions-example",
+  "version": "1.0.0",
+  "description": "[書籍「フロントエンド開発のためのテスト入門」](https://www.shoeisha.co.jp/book/detail/9784798178189)のサンプルコードを写経するだけのリポジトリ3",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^30.0.4"
+  }
+}
